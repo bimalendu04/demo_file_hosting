@@ -10,10 +10,12 @@ online-Aura-FMS-A2,56
 online-Aura-DG-Taru,34
 online-Aura-DG-A1,68
 online-Aura-DG-A2,34
-online-Infra-FMS-Taru,13
-online-Infra-FMS-A1,89
-online-Infra-DG,68
-online-Infra-DG-A2,34
+online-Infra-FMS-Taru,133
+online-Infra-FMS-A1,891
+online-Infra-FMS-A2,566
+online-Infra-DG-Taru,347
+online-Infra-DG-A1,90
+online-Infra-DG-A2,343
 offline-Trust-FMS-Taru,68
 offline-Trust-FMS-A1,65
 offline-Trust-FMS-A2,34
@@ -26,7 +28,3 @@ offline-Aura-FMS-A2,546
 offline-Aura-DG-Taru,21
 offline-Aura-DG-A1,110
 offline-Aura-DG-A2,10
-offline-Infra-FMS-Taru,54
-offline-Infra-FMS-A1,8
-offline-Infra-A2,54
-offline-Infra-,21
