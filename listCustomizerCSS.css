@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.listCustomizerSKT.textHellip {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
